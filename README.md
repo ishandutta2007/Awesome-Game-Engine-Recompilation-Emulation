@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Game-Engine-Recompilation-Emulation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Game-Engine-Recompilation-Emulation?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Game-Engine-Recompilation-Emulation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Game-Engine-Recompilation-Emulation?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Game-Engine-Recompilation-Emulation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Game-Engine-Recompilation-Emulation?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -66,7 +66,7 @@ The industry demonstrates a sharp **bifurcated market structure**:
 
 ## 💻 Open-Source GitHub Projects
 
-*Curated list of flagship open-source recompilation frameworks, decompilation suites, game engine reimplementations, and console emulators. Sorted descending by GitHub star count.*
+*Curated list of flagship open-source recompilation frameworks, decompilation suites, game engine reimplementations, and console emulators. Sorted descending by GitHub Stars_Count.*
 
 | Repository & Stargazers Badge | Primary Focus / Category | License | Description |
 | :--- | :--- | :--- | :--- |
@@ -122,7 +122,7 @@ We welcome contributions from game engine developers, reverse engineers, and ret
 1. 🍴 **Fork** this repository.
 2. 🌿 Create a branch for your entry: `git checkout -b add/cool-recomp-project`.
 3. 📝 Add your entry to either the **SaaS / Commercial** or **Open-Source** table following the existing format.
-4. 🌟 Ensure the star badge follows the format: `[![Stars](https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white)](https://github.com/{owner}/{repo}/stargazers)`.
+4. 🌟 Ensure the Stars_Badge follows the format: `[![Stars](https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white)](https://github.com/{owner}/{repo}/stargazers)`.
 5. 🚀 Submit a **Pull Request** with a concise description of why the project fits the list.
 
 ---
